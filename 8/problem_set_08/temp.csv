@@ -1,0 +1,51 @@
+state_id,state,total_policies,total_cases
+AL,Alabama,17,189149
+AK,Alaska,16,15417
+AZ,Arizona,14,242480
+AR,Arkansas,15,109712
+CA,California,16,912904
+CO,Colorado,19,102014
+CT,Connecticut,18,70446
+DE,Delaware,16,24553
+FL,Florida,15,784331
+GA,Georgia,12,356848
+HI,Hawaii,18,14841
+ID,Idaho,11,62746
+IL,Illinois,17,400171
+IN,Indiana,17,172730
+IA,Iowa,14,122355
+KS,Kansas,14,82045
+KY,Kentucky,18,103305
+LA,Louisiana,16,186216
+ME,Maine,15,6570
+MD,Maryland,19,144314
+MA,Massachusetts,20,161637
+MI,Michigan,18,190043
+MN,Minnesota,18,142311
+MS,Mississippi,17,119336
+MO,Missouri,11,177693
+MT,Montana,15,30853
+NE,Nebraska,13,68150
+NV,Nevada,14,98554
+NH,New Hampshire,15,10768
+NJ,New Jersey,18,234547
+NM,New Mexico,17,44904
+NY,New York,20,506674
+NC,North Carolina,14,269021
+ND,North Dakota,11,42483
+OH,Ohio,16,208937
+OK,Oklahoma,13,126618
+OR,Oregon,16,43793
+PA,Pennsylvania,19,202876
+RI,Rhode Island,18,32312
+SC,South Carolina,13,174591
+SD,South Dakota,7,43000
+TN,Tennessee,15,256880
+TX,Texas,18,886820
+UT,Utah,14,110640
+VT,Vermont,20,2155
+VA,Virginia,16,179639
+WA,Washington,19,105557
+WV,West Virginia,16,23466
+WI,Wisconsin,15,226705
+WY,Wyoming,10,12507
